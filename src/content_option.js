@@ -1,7 +1,11 @@
+//import projectImage1 from "./assets/images/Liverpool_FC1.jpg";
+import projectImage2 from "./assets/images/lfc2.png";
+import projectImage3 from "./assets/images/PD1.PNG";
 const logotext = "Philip Davis";
 const meta = {
     title: "Phil Davis",
     description: "I’m Phil Davis _ Front End devloper,currently working in Leeds, England",
+    
 };
 
 const introdata = {
@@ -12,12 +16,13 @@ const introdata = {
         third: "I develop mobile apps & I love Liverpool FC",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "./assets/images/Liverpool_FC1.jpg",
+    your_img_url: projectImage2,
+    //your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
     Description: "Phil's picture",
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: " About Me",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
