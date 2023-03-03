@@ -1,6 +1,6 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+This is my Web Portfolio built with React. 
 
 <!--### [live preview](https://.github.io/react-portfo/)
 
@@ -31,8 +31,8 @@ Start the server
 
 ### More
 
-Modify pages content in  `src/content_option.js`.
+If you like this Portfolio You can modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
-If you like this portfolio template don't forget give it a ⭐ 
+TBC
