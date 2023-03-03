@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-
+import reactLogo from "../../assets/images/PD1.PNG";
 export const Home = () => {
   return (
     <HelmetProvider>
@@ -22,6 +22,9 @@ export const Home = () => {
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
             <div className="align-self-center ">
               <div className="intro mx-auto">
+              <div>
+                <img src={reactLogo} alt="Phil's Picture" height="200"/>
+                </div>
                 <h2 className="mb-1x">{introdata.title}</h2>
                 <h1 className="fluidz-48 mb-1x">
                   <Typewriter

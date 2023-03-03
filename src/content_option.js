@@ -1,11 +1,10 @@
 //import projectImage1 from "./assets/images/Liverpool_FC1.jpg";
 import projectImage2 from "./assets/images/lfc2.png";
-import projectImage3 from "./assets/images/PD1.PNG";
+//import projectImage3 from "./assets/images/PD1.PNG";
 const logotext = "Philip Davis";
 const meta = {
-    title: "Phil Davis",
-    description: "I’m Phil Davis _ Front End devloper,currently working in Leeds, England",
-    
+    title: "Phil Davis", 
+    description: "I’m Phil Davis _ Front End devloper, currently working in Leeds, England",
 };
 
 const introdata = {
@@ -15,7 +14,8 @@ const introdata = {
         second: "I code cool websites & I love Liverpool FC",
         third: "I develop mobile apps & I love Liverpool FC",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I’m Phil Davis _ Front End devloper, currently working in Leeds, England",
+    
     your_img_url: projectImage2,
     //your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
     Description: "Phil's picture",
@@ -23,7 +23,7 @@ const introdata = {
 
 const dataabout = {
     title: " About Me",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "My name is Phil and I would like to welcome you to my portfolio page. I started my journey with programming languages in 1999. I am a flexible and proficient Electrical Systems Engineer with more than 15 years experience and now gaining further understanding in a varied and challenging role. I am reliable and positive and able to demonstrate a balance of technical involvement, flexibility and focus whilst delivering at key milestones within strategic partner asset management projects.",
 };
 const worktimeline = [{
         jobtitle: "Systems Engineer",
