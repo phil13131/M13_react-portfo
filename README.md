@@ -55,7 +55,10 @@ If you like this Portfolio You can modify pages content in  `src/content_option.
 - [Link to Portfolio Site](https://phil13131.github.io/react-portfo/)
 - [Link to Github](https://github.com/phil13131)
 - [Link to LinkedIn](www.linkedin.com/in/philip-davis-85ab4531/)
+<<<<<<< HEAD
 - [Link to Certifications](https://github.com/phil13131/M13_react-portfo/blob/main/Front_End_Cert.pdf)
+=======
+>>>>>>> 42b3971a65db3c699928297f24a14d7caa1a8586
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
